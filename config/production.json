@@ -1,0 +1,14 @@
+{
+  "service": {
+    "db": {
+      "host": "example.org",
+      "port": 5984,
+      "dbName": "images",
+      "username": "prod-username",
+      "password": "prod-secret"
+    },
+    "service": {
+      "port": 3000
+    }
+  }
+}

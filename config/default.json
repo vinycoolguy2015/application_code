@@ -1,0 +1,14 @@
+{
+  "service": {
+    "db": {
+      "host": "localhost",
+      "port": 5984,
+      "dbName": "images",
+      "username": "local-username",
+      "password": "local-password"
+    },
+    "service": {
+      "port": 3000
+    }
+  }
+}
