@@ -26,3 +26,4 @@ You can request an existing image using `GET /api/images?id=IMAGE_ID_HERE` to re
 Configurations for the application as under `/config`.
 Requests are logged using [morgan](https://www.npmjs.com/package/morgan).
 Linting and Prettier are enabled, please refer to `scripts` in `package.json`.
+#test
